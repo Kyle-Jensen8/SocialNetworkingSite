@@ -1,0 +1,1 @@
+mongo "mongodb+srv://realmcluster.o3esl.mongodb.net/myFirstDatabase" --username admin
